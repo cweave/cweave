@@ -1,6 +1,6 @@
 # Hi, I'm Christa! 👋🏻
 
-💻 Front End Engineer and User Experience advocate
+## 💻 Front End Engineer and User Experience Advocate
 
 👩🏻‍💻 She/Her Pronouns
 
