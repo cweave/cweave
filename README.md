@@ -16,6 +16,4 @@
 		<a href="https://www.linkedin.com/in/weaverchrista/" target="_blank"><img src="https://github.com/cweave/cweave/blob/master/linkedin.svg" alt='linkedin' role='image' width="25" /></a> <a href="https://codepen.io/cweave" target="_blank"><img src="https://github.com/cweave/cweave/blob/master/codepen.svg" alt='linkedin' role='image' width="25" /> <img src="https://github.com/cweave/cweave/blob/master/website.svg" alt='external website' role='image' width="25" />
 </center>
 
-
-
 <img src="https://github.com/cweave/cweave/blob/master/galaxy-bottom.png" alt="wavy background with galaxy inside">
