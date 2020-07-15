@@ -18,4 +18,4 @@
 
 
 
-<img src="https://github.com/cweave/cweave/blob/master/galaxy-top.png" alt="wavy background with galaxy inside">
+<img src="https://github.com/cweave/cweave/blob/master/galaxy-bottom.png" alt="wavy background with galaxy inside">
