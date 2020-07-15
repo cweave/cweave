@@ -1,3 +1,5 @@
+<img src="galaxy.png">
+
 # Hi, I'm Christa! 👋🏻
 
 ## 💻 Front End Engineer and User Experience Advocate
