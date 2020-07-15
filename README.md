@@ -1,4 +1,4 @@
-<img src="galaxy-top.png" alt="wavy background with galaxy inside">
+<img src="https://github.com/cweave/cweave/blob/master/galaxy-top.png" alt="wavy background with galaxy inside">
 
 # Hi, I'm Christa! 👋🏻
 
@@ -13,9 +13,9 @@
 ###### 🌵🎍 cacti and succulents also make me really happy.
 
 <center>
-		<a href="https://www.linkedin.com/in/weaverchrista/" target="_blank"><img src="linkedin.svg" alt='linkedin' role='image' width="25" /></a> <a href="https://codepen.io/cweave" target="_blank"><img src="codepen.svg" alt='linkedin' role='image' width="25" /> <img src="website.svg" alt='external website' role='image' width="25" />
+		<a href="https://www.linkedin.com/in/weaverchrista/" target="_blank"><img src="https://github.com/cweave/cweave/blob/master/linkedin.svg" alt='linkedin' role='image' width="25" /></a> <a href="https://codepen.io/cweave" target="_blank"><img src="https://github.com/cweave/cweave/blob/master/codepen.svg" alt='linkedin' role='image' width="25" /> <img src="https://github.com/cweave/cweave/blob/master/website.svg" alt='external website' role='image' width="25" />
 </center>
 
 
 
-<img src="galaxy-bottom.png" alt="wavy background with galaxy inside">
+<img src="https://github.com/cweave/cweave/blob/master/galaxy-top.png" alt="wavy background with galaxy inside">
