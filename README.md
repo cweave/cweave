@@ -1,14 +1,10 @@
 <img src="https://github.com/cweave/cweave/blob/master/galaxy-top.png" alt="wavy background with galaxy inside">
 
-# Hi, I'm Christa! 👋🏻
+# Hi, I'm Christa 💻
 
-## 💻 Front End Engineer and User Experience Advocate
+<h2 style="border-bottom: none;">✨priestess of software, goddess of code</h2>
 
-👩🏻‍💻 She/Her Pronouns
-
-⚡ I have extensive experience with sematic HTML, SCSS, and vanilla JavaScript (ES6+). My current pathway is aligned with JavaScript development, with a current focus in VueJs. Creating an accessible web for **all** users is my absolute end goal.
-
-🌱 Currently learning <strong>React</strong>. GraphQL and GatbyJS are huge interests as well.
+I'm a front-end engineer and user experience advocate. Currently working as a software engineer in the SaaS industry.
 
 ###### 🌵🎍 cacti and succulents also make me really happy.
 
